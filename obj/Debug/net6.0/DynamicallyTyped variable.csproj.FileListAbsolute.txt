@@ -1,0 +1,15 @@
+C:\Users\singhn\Desktop\DynamicallyTyped variable\bin\Debug\net6.0\DynamicallyTyped variable.exe
+C:\Users\singhn\Desktop\DynamicallyTyped variable\bin\Debug\net6.0\DynamicallyTyped variable.deps.json
+C:\Users\singhn\Desktop\DynamicallyTyped variable\bin\Debug\net6.0\DynamicallyTyped variable.runtimeconfig.json
+C:\Users\singhn\Desktop\DynamicallyTyped variable\bin\Debug\net6.0\DynamicallyTyped variable.dll
+C:\Users\singhn\Desktop\DynamicallyTyped variable\bin\Debug\net6.0\DynamicallyTyped variable.pdb
+C:\Users\singhn\Desktop\DynamicallyTyped variable\obj\Debug\net6.0\DynamicallyTyped variable.csproj.AssemblyReference.cache
+C:\Users\singhn\Desktop\DynamicallyTyped variable\obj\Debug\net6.0\DynamicallyTyped variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\singhn\Desktop\DynamicallyTyped variable\obj\Debug\net6.0\DynamicallyTyped variable.AssemblyInfoInputs.cache
+C:\Users\singhn\Desktop\DynamicallyTyped variable\obj\Debug\net6.0\DynamicallyTyped variable.AssemblyInfo.cs
+C:\Users\singhn\Desktop\DynamicallyTyped variable\obj\Debug\net6.0\DynamicallyTyped variable.csproj.CoreCompileInputs.cache
+C:\Users\singhn\Desktop\DynamicallyTyped variable\obj\Debug\net6.0\DynamicallyTyped variable.dll
+C:\Users\singhn\Desktop\DynamicallyTyped variable\obj\Debug\net6.0\refint\DynamicallyTyped variable.dll
+C:\Users\singhn\Desktop\DynamicallyTyped variable\obj\Debug\net6.0\DynamicallyTyped variable.pdb
+C:\Users\singhn\Desktop\DynamicallyTyped variable\obj\Debug\net6.0\DynamicallyTyped variable.genruntimeconfig.cache
+C:\Users\singhn\Desktop\DynamicallyTyped variable\obj\Debug\net6.0\ref\DynamicallyTyped variable.dll
